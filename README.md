@@ -17,6 +17,8 @@
 
 ![\sum_{i=0}^{N}\LaTeX_{i}](https://latex.codecogs.com/gif.latex?\sum_{i=0}^{N}\LaTeX_{i})
 
+![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
+
 
 <img src="http://latex.codecogs.com/gif.latex?\frac{\partial J}{\partial \theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{(i)}}+\lambda \theta_k^{(j)}" />
 
